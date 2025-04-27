@@ -1,7 +1,3 @@
-Of course! 🚀  
-Here’s a **professional README.md** you can use for your GitHub project:
-
----
 
 # 🎬 Review Analysis System
 
